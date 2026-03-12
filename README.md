@@ -1,4 +1,4 @@
-Simulation des Portes Logiques et Additionneur 2 Bits sous Proteus
+#Simulation des Portes Logiques et Additionneur 2 Bits sous Proteus
 Description
 
 This project contains simulations of basic logic gates and a 2-bit full adder implemented in Proteus Design Suite. The purpose of this laboratory work is to understand how fundamental digital circuits function and to verify their behavior through simulation.
